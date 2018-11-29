@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Colombee.github.io/happydrink",
+  "homepage": "http://colombee.github.io/happydrink",
   "name": "happydrink",
   "version": "0.1.0",
   "private": true,
@@ -7,8 +7,7 @@
     "re-base": "^4.0.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
-    "react-scripts": "^2.1.1",
-    "gh-pages": "^6.4.1"
+    "react-scripts": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
